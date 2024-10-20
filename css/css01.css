@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 body {
-  background-image: url("../img/flowers-images.jpg");
+  background-image: url("../img/20_10_background.jpg");
   background-size: 100%;
   background-repeat: repeat-y;
   font-family: "Fredoka One", cursive;
@@ -39,15 +39,7 @@ h4 {
   opacity: 0.8;
   filter: alpha(opacity=50); /* For IE8 and earlier */
 }
-.footer {
-  height: 250px;
-  font-size: 20px;
-  background-color: darkblue;
-  color: skyblue;
-  padding-top: 100px;
-  opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */
-}
+
 .containeri {
   position: relative;
   text-align: center;
@@ -62,10 +54,10 @@ h4 {
 
 .top-left {
   position: absolute;
-  top: 132px;
-  right: 29px;
+  top: 100px;
+  right: 20px;
   color: #6c7c6b;
-  font-size: 80%;
+  font-size: 90%;
 }
 .center {
   position: absolute;
@@ -92,6 +84,6 @@ h4 {
 .bottom-left {
   position: absolute;
   bottom: 5px;
-  left: 270px;
+  left: 200px;
   color: #b78690;
 }
